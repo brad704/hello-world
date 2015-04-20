@@ -1,2 +1,2 @@
 # hello-world
-Say hello and try GitHub
+This is a tutorial for setting up GitHub.
